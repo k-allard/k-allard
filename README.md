@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on building HTTP server in C++ for educational purposes
 - 🤔 I’m looking for help with finding a great place for my first internship
 - 💬 Ask me about everything you find unclear or interesting in my code
-- 📫 How to reach me: slack - Kallard (for 42 Students), [linkedin](https://www.linkedin.com/in/shurpakova/), [telegram](https://t.me/oykelrae)
+- 📫 How to reach me: slack - Kallard (for 42 Students), [linkedin](https://www.linkedin.com/in/aa-smirnova), [telegram](https://t.me/oykelrae)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i am a big mountains lover
 
